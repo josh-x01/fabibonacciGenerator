@@ -1,5 +1,5 @@
 /*
-This program calculate fibonacci sequence
+This program generate fibonacci sequence
 Author: Eyasu Yidnekachew
 E-mail: eyasuyid@gmail.com
 */
